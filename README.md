@@ -2,7 +2,7 @@
     <a href="https://github.com/isaacKenyon/valorant-rank-yoinker/">
         <img src="assets/Logo.png" alt="Logo" width="160" height="160">
     </a>
-<h5 align="center"> VALORANT rank yoinker</h5>
+<h5 align="center">VALORANT Rank Yoinker - Custom Build</h5>
 </p>
 
 [![Discord][discord-shield]][discord-url]
@@ -21,6 +21,8 @@
     <li><a href="#disclaimer">Disclaimer</a></li>
   </ol>
 
+## Notable Changes
+ - TBA
     
 ## About The Project
 
@@ -38,7 +40,7 @@
  
 **IMPORTANT: The .exe must be kept with its files, you can create a shortcut to it if you want to place it elsewhere.**
 
-Download and run the [release](https://github.com/isaacKenyon/valorant-rank-yoinker/releases/latest).
+Download and run the [release](https://github.com/RHQ-Rusty/vRY/releases/latest).
 
 To view a player's equipped inventory visit [this website](https://vry.netlify.app/matchLoadouts).
 
@@ -68,7 +70,8 @@ Tutorial:
 ## Acknowledgements
 
  - [Valorant-API.com](https://valorant-api.com/)
- - [Hamper for all his amazing work](https://github.com/OwOHamper)
+ - [Hamper](https://github.com/OwOHamper) for all his amazing work
+ - [isaacKenyon](https://github.com/isaacKenyon) for his groundwork on the project
 
  
  
